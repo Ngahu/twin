@@ -1,0 +1,21 @@
+{
+  "full_name": "Ngahunj",
+  "name": "Ngahunj",
+  "current_role": "Software Engineer",
+  "location": "Nairobi, Kenya",
+  "email": "ngahunj@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/ngahunj",
+  "specialties": [
+    "Web Development",
+    "API Development",
+    "Cloud Computing"
+  ],
+  "years_experience": 8,
+  "education": [
+    {
+      "degree": "Diploma in Computer Science",
+      "institution": "Moringa School",
+      "year": "2016"
+    }
+  ]
+}
