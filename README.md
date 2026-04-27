@@ -33,26 +33,6 @@ This project is a web application that serves as an **AI-powered digital** twin,
 
 ---
 
-## Project Structure
-
-```plaintext
-├── backend/                # Backend services and Lambda functions
-│   ├── lambda-package/     # Lambda deployment package
-│   ├── server.py           # FastAPI server entry point
-│   ├── deploy.py           # Deployment script
-│   └── requirements.txt    # Python dependencies
-├── frontend/               # Frontend application (Next.js)
-│   ├── pages/              # Next.js pages
-│   ├── components/         # React components
-│   └── package.json        # Node.js dependencies
-├── terraform/              # Terraform configuration for AWS infrastructure
-├── scripts/                # Utility scripts for deployment and destruction
-├── .github/workflows/      # GitHub Actions workflows
-└── README.md               # Project documentation
-```
-
----
-
 ## Getting Started
 
 ### Prerequisites
